@@ -12,3 +12,4 @@ while n!=0:
       buffer = int(buffer/10)
     print(sum)
   n=n-1
+#yo
